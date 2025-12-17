@@ -1,0 +1,68 @@
+{
+  "title": "/SYSTEM/MODULES_LOADED",
+  "categories": [
+    {
+      "title": "LANGUAGES",
+      "skills": [
+        { "name": "JavaScript", "level": 95 },
+        { "name": "TypeScript", "level": 90 },
+        { "name": "Python", "level": 85 },
+        { "name": "Java", "level": 70 },
+        { "name": "C++", "level": 60 },
+        { "name": "SQL", "level": 80 },
+        { "name": "HTML5", "level": 100 },
+        { "name": "CSS3", "level": 95 }
+      ]
+    },
+    {
+      "title": "FRONTEND",
+      "skills": [
+        { "name": "React", "level": 95 },
+        { "name": "Next.js", "level": 90 },
+        { "name": "Vue.js", "level": 75 },
+        { "name": "Tailwind CSS", "level": 95 },
+        { "name": "Framer Motion", "level": 85 },
+        { "name": "Three.js", "level": 70 },
+        { "name": "Redux", "level": 80 },
+        { "name": "Webpack/Vite", "level": 75 }
+      ]
+    },
+    {
+      "title": "BACKEND",
+      "skills": [
+        { "name": "Node.js", "level": 90 },
+        { "name": "Express", "level": 85 },
+        { "name": "Django", "level": 80 },
+        { "name": "PostgreSQL", "level": 85 },
+        { "name": "MongoDB", "level": 80 },
+        { "name": "GraphQL", "level": 75 },
+        { "name": "REST APIs", "level": 95 },
+        { "name": "Firebase", "level": 85 }
+      ]
+    },
+    {
+      "title": "TOOLS_&_DEVOPS",
+      "skills": [
+        { "name": "Git/GitHub", "level": 95 },
+        { "name": "Docker", "level": 80 },
+        { "name": "AWS", "level": 70 },
+        { "name": "Linux", "level": 85 },
+        { "name": "Vercel", "level": 90 },
+        { "name": "Figma", "level": 75 },
+        { "name": "Postman", "level": 90 },
+        { "name": "Jest/Testing", "level": 80 }
+      ]
+    },
+    {
+      "title": "SOFT_SKILLS",
+      "skills": [
+        { "name": "Problem Solving", "level": 100 },
+        { "name": "Communication", "level": 95 },
+        { "name": "Team Leadership", "level": 85 },
+        { "name": "Agile/Scrum", "level": 90 },
+        { "name": "Mentoring", "level": 80 },
+        { "name": "Time Mgmt", "level": 85 }
+      ]
+    }
+  ]
+}

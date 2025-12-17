@@ -1,0 +1,27 @@
+{
+  "title": "/SYSTEM/PROJECTS",
+  "accessSourceCode": "ACCESS_SOURCE_CODE",
+  "items": [
+    {
+      "title": "Modern Portfolio",
+      "desc": "High-performance portfolio website. Features immersive 3D backgrounds and smooth animations.",
+      "tags": ["Next.js", "Three.js", "Tailwind"],
+      "status": "DEPLOYED",
+      "githubLink": "https://github.com/johnpraise/portfolio"
+    },
+    {
+      "title": "E-Commerce Platform",
+      "desc": "Full-stack e-commerce solution with real-time inventory and secure payments.",
+      "tags": ["React", "Node.js", "MongoDB"],
+      "status": "ONLINE",
+      "githubLink": "https://github.com/johnpraise/ecommerce"
+    },
+    {
+      "title": "AI Task Manager",
+      "desc": "Smart task management app powered by AI to prioritize work.",
+      "tags": ["Python", "FastAPI", "OpenAI"],
+      "status": "BETA",
+      "githubLink": "https://github.com/johnpraise/ai-task-manager"
+    }
+  ]
+}

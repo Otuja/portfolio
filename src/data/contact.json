@@ -1,0 +1,14 @@
+{
+  "title": "/SYSTEM/CONNECT",
+  "whatsapp": {
+    "title": "WhatsApp",
+    "subtitle": "Instant Transmission"
+  },
+  "email": {
+    "title": "Email",
+    "subtitle": "Secure Channel"
+  },
+  "social": {
+    "title": "> OTHER_CHANNELS"
+  }
+}

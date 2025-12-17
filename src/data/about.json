@@ -1,0 +1,83 @@
+{
+  "title": "/SYSTEM/ABOUT_ME",
+  "profile": {
+    "label": "user_profile.json",
+    "data": {
+      "name": "John Praise",
+      "role": "Full Stack Engineer",
+      "location": "Digital Nomad",
+      "status": "Open to Work",
+      "bio": "Passionate developer crafting robust and scalable web applications. I turn coffee into code and problems into solutions."
+    }
+  },
+  "education": {
+    "title": "> EDUCATION_LOGS",
+    "items": [
+      {
+        "degree": "BS Computer Science",
+        "school": "University of Technology",
+        "year": "2015 - 2019",
+        "details": "Major in Software Engineering, Minor in AI."
+      },
+      {
+        "degree": "Full Stack Certification",
+        "school": "Meta Coursera",
+        "year": "2020"
+      }
+    ]
+  },
+  "resume": {
+    "label": "DOWNLOAD_RESUME.pdf",
+    "file": "/resume.pdf"
+  },
+  "experience": {
+    "title": "> EXECUTION_HISTORY",
+    "items": [
+      {
+        "role": "Senior Frontend Engineer",
+        "company": "Tech Giants Inc.",
+        "period": "2022 - Present",
+        "achievements": [
+          "Architected and built the core design system used across 5 products.",
+          "Improved site performance by 40% through code splitting and lazy loading.",
+          "Mentored junior developers and conducted code reviews."
+        ]
+      },
+      {
+        "role": "Full Stack Developer",
+        "company": "Creative Solutions",
+        "period": "2020 - 2022",
+        "achievements": [
+          "Developed RESTful APIs using Node.js and Express.",
+          "Integrated payment gateways (Stripe, PayPal) for e-commerce clients.",
+          "Collaborated with UI/UX designers to implement pixel-perfect interfaces."
+        ]
+      },
+      {
+        "role": "Junior Web Developer",
+        "company": "StartUp Hub",
+        "period": "2019 - 2020",
+        "achievements": [
+          "Assisted in the development of client websites using React and Gatsby.",
+          "Fixed bugs and maintained legacy codebases.",
+          "Participated in daily stand-ups and agile sprints."
+        ]
+      }
+    ]
+  },
+  "skills": {
+    "title": "> CORE_PROTOCOLS",
+    "items": [
+      "Problem Solving",
+      "Communication",
+      "Team Leadership",
+      "Agile Methodology",
+      "Critical Thinking"
+    ]
+  },
+  "hobbies": {
+    "title": "> OFFLINE_MODE",
+    "description": "When I'm not in the Matrix, I enjoy {0}, {1}, and exploring {2}. I also contribute to open-source projects to keep my skills sharp.",
+    "highlights": ["Photography", "Gaming", "Sci-Fi Literature"]
+  }
+}

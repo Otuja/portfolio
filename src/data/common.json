@@ -1,0 +1,15 @@
+{
+  "personal": {
+    "name": "John Praise",
+    "role": "FUTURE_ARCHITECT",
+    "subtitle": "Executing creative algorithms at the intersection of design and technology. Building the next generation of digital infrastructure.",
+    "location": "Based in Digital Space",
+    "email": "contact@example.com",
+    "whatsapp": "https://wa.me/1234567890",
+    "social": {
+      "github": "#",
+      "linkedin": "#",
+      "twitter": "#"
+    }
+  }
+}
