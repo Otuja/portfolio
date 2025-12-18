@@ -3,7 +3,7 @@
   "profile": {
     "label": "user_profile.json",
     "data": {
-      "name": "John Praise",
+      "name": "John Praise Otuka",
       "role": "Full Stack Engineer",
       "location": "Digital Nomad",
       "status": "Open to Work",
@@ -15,14 +15,14 @@
     "items": [
       {
         "degree": "BS Computer Science",
-        "school": "University of Technology",
-        "year": "2015 - 2019",
+        "school": "University of Nigeria, Nsukka",
+        "year": "2022 - 2026",
         "details": "Major in Software Engineering, Minor in AI."
       },
       {
         "degree": "Full Stack Certification",
         "school": "Meta Coursera",
-        "year": "2020"
+        "year": "2026"
       }
     ]
   },

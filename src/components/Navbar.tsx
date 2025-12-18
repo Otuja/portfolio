@@ -3,6 +3,7 @@
 import React, { useState } from "react";
 import Link from "next/link";
 import { Menu, X, Terminal } from "lucide-react";
+import commonData from "@/data/common.json";
 
 const Navbar = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -12,7 +13,7 @@ const Navbar = () => {
   };
 
   return (
-    <div className="w-full h-[65px] fixed top-0 shadow-lg shadow-[#00FF41]/20 bg-black/90 backdrop-blur-md z-50 px-5 md:px-10 border-b border-[#00FF41]/30">
+    <div className="w-full h-[65px] fixed top-0 shadow-lg shadow-[#00FF41]/20 bg-black/90 backdrop-blur-md z-50 px-2 md:px-10 border-b border-[#00FF41]/30">
       <div className="w-full h-full flex flex-row items-center justify-between m-auto px-[10px]">
         <Link
           href="/"
@@ -20,7 +21,7 @@ const Navbar = () => {
         >
           <Terminal className="text-[#00FF41]" />
           <span className="font-bold ml-[5px] text-[#00FF41] font-mono tracking-wider text-sm md:text-base">
-            DEV_PORTFOLIO
+            {commonData.brand}
           </span>
         </Link>
 

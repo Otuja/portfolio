@@ -1,15 +1,18 @@
 {
+  "brand": "JOHNPRAISE",
   "personal": {
-    "name": "John Praise",
+    "name": "John Praise Otuka",
     "role": "FUTURE_ARCHITECT",
     "subtitle": "Executing creative algorithms at the intersection of design and technology. Building the next generation of digital infrastructure.",
     "location": "Based in Digital Space",
-    "email": "contact@example.com",
-    "whatsapp": "https://wa.me/1234567890",
+    "email": "johnpraiseotuka@gmail.com",
+    "whatsapp": "https://wa.me/08143107814",
     "social": {
-      "github": "#",
-      "linkedin": "#",
-      "twitter": "#"
+      "github": "https://github.com/Otuja",
+      "linkedin": "https://www.linkedin.com/in/johnpraiseotuka/",
+      "twitter": "https://x.com/JohnpraiseOtuka",
+      "telegram": "#",
+      "discord": "#"
     }
   }
 }
